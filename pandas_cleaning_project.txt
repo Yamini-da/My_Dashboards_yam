@@ -1,10 +1,4 @@
-
-PANDAS:
-
-Data cleaning Project:
-
-1.Duplicate removal
-2.remove unnecessary columns
-3.remove irrelevant symbols
-4.clean phone-numbers in same format
-5.clean other columns
+DATE: 17/11/2024
+TOPICS:
+PYTHON BASIC TUTORILAS
+DECISION TREE MODEL
