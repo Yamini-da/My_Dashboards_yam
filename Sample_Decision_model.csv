@@ -1,0 +1,15 @@
+Age,Income,Gender,House type
+20,15000,M,Rented
+23,18000,M,Rented
+25,30000,M,Rented
+30,50000,M,Owned
+40,1000000,M,Owned
+50,1000000,M,Owned
+60,10000,M,Rented
+20,20000,F,Rented
+23,20000,F,Rented
+25,20000,F,Rented
+30,50000,F,Rented
+40,70000,F,Owned
+50,100000,F,Owned
+60,5000,F,Owned
